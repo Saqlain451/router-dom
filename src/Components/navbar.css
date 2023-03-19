@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 6rem;
+    background-color: aliceblue;
+    height: 8rem;
+}
+
+.navbar-logo{
+    font-size: 2rem;
+}
+
+.navbar-list{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    font-size: 1.6rem;
+}
+
+.navbar-list a{
+    color: black;
+}
